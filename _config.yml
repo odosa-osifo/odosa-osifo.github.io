@@ -1,17 +1,18 @@
 title: Odosa Osifo
 logo: IMG_1983.jpeg
-description: | 
-  Data Analyst with over 3 years of applied experience transforming complex, multi-source data into actionable insights, KPI reporting, and decision-ready dashboards that support business growth and operational efficiency. This GitHub portfolio demonstrates end-to-end analytics delivery—data extraction (SQL), data cleaning/validation, ETL workflows, exploratory analysis, visual storytelling, and (where relevant) predictive modelling—with reproducible code, clear documentation, and concise business interpretation.
 
-  My work is anchored in a strong BI toolkit involving
+description: |
+  Data Analyst with over 3 years of applied experience transforming complex, multi-source data into actionable insights.
 
-  Advanced Excel for fast, reliable analysis and automation (Lookups, complex formulas, PivotTables, Power Query, VBA/Macros, What-If analysis including Goal Seek/Solver/Scenario Manager).
+  My work is anchored in a strong BI toolkit involving:
 
-  SQL for robust querying and data preparation (DDL/DML/DQL/DCL, CTEs, and window functions for analytical reporting).
+  Advanced Excel for fast, reliable analysis and automation (Lookups, complex formulas, PivotTables, Power Query, VBA/Macros)
 
-  Power BI for insight products built for stakeholders (Power Query, DAX, data modelling, interactive reports and dashboards, and source connections + transformations).
+  SQL for robust querying and data preparation (DDL/DML/DQL/DCL, CTEs, and window functions for analytical reporting)
 
-  Across repositories, you’ll see a consistent emphasis on data quality, traceable assumptions, and outputs that are easy for both technical and non-technical audiences to use—built with tools including Python (pandas, NumPy, scikit-learn) and modern delivery practices.
+  Power BI for insight products built for stakeholders (Power Query, DAX, data modelling, interactive reports and dashboards)
+
+theme: jekyll-theme-minimal
 #show_downloads: true
 #google_analytics:
-theme: jekyll-theme-minima
+
