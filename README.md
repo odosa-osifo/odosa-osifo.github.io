@@ -119,6 +119,19 @@ PAYMENT METHOD PREFERENCES
 ![Shopping Behaviour(USA)](Shopping%20Behaviour(USA).png)
 
 
+# Project 2
+
+**Title:**
+
+**SQL Code:**
+
+**SQL Skills Used:**
+
+**Project Description:**
+
+**Technology used:** SQL server
+
+
 
 
 <h2> 🤳 Connect with me:</h2>
