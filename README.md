@@ -32,19 +32,11 @@ Analysis of purchase activity by location to identify high-performing regions.
 
 Additionally, the dashboard includes interactive slicers that allow users to dynamically filter the data by:
 
-Gender
-
-Product Category
-
-Season
-
-Payment Method
-
-Subscription Status
+Gender, Product Category, Season, Payment Method, Subscription Status
 
 These filters allow stakeholders to drill down into specific customer segments and gain deeper insights into shopping behaviour.
 
-**Key findings:** CATEGORY PREFERENCE BY GENDER														
+**Key Findings:** CATEGORY PREFERENCE BY GENDER														
 1. Male customers dominate purchases across all categories (Accessories, Clothing, Footwear, Outerwear).														
 														
 2. Female participation is consistent but significantly lower in every category.														
