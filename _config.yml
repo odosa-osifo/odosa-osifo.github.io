@@ -2,9 +2,15 @@ title: Odosa Osifo
 logo: IMG_1983.jpeg
 
 description: |
-  Data Analyst with over 3 years of applied experience transforming complex, multi-source data into actionable insights. My work is anchored in a strong BI toolkit involving: Advanced Excel for fast, reliable analysis and automation (Lookups, complex formulas, PivotTables, Power Query, VBA/Macros)
+  Data Analyst with over 3 years of applied experience transforming complex, multi-source data into actionable insights.
 
-  SQL for robust querying and data preparation (DDL/DML/DQL/DCL, CTEs, and window functions for analytical reporting), Power BI for insight products built for stakeholders (Power Query, DAX, data modelling, interactive reports and dashboards)
+  My work is anchored in a strong BI toolkit involving:
+
+  Advanced Excel for fast, reliable analysis and automation (Lookups, complex formulas, PivotTables, Power Query, VBA/Macros)
+
+  SQL for robust querying and data preparation (DDL/DML/DQL/DCL, CTEs, and window functions for analytical reporting)
+
+  Power BI for insight products built for stakeholders (Power Query, DAX, data modelling, interactive reports and dashboards)
 
 theme: jekyll-theme-minimal
 #show_downloads: true
