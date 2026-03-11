@@ -141,6 +141,9 @@ Calculated the number of employees within specific departments (e.g., HR) to gen
 Date Functions (GETDATE)
 Retrieved the current system date using SQL date functions to demonstrate dynamic date handling within queries.
 
+SQL Joins (LEFT, INNER)
+Joined data from multiple tables using unique identifiers to link tables and performed filtering and analysis
+
 String Parsing (CHARINDEX)
 Extracted location names from the address column by identifying and isolating text that appears before brackets, enabling cleaner geographic data representation.
 
@@ -150,7 +153,7 @@ Created a new table by defining its structure to support additional data storage
 Data Filtering (WHERE)
 Applied conditional filtering to retrieve only relevant records, such as employees belonging to a specific department.
 
-**Project Description:** This project demonstrates the use of SQL for data querying, transformation, and basic analysis using an employee dataset. The objective of the project was to explore how SQL can be used to efficiently retrieve and manipulate structured data stored in a relational database.
+**Project Description:** This project demonstrates the use of SQL for data querying, transformation, and analysis using an employee dataset. The objective of the project was to explore how SQL can be used to efficiently retrieve and manipulate structured data stored in a relational database.
 
 Through a series of SQL queries, key information was extracted from the employee dataset to perform tasks such as data formatting, aggregation, and filtering. The project highlights common SQL operations that are widely used in data analysis and database management.
 
