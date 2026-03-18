@@ -271,14 +271,106 @@ TIME-BASED TRENDS
 **Dashboard Overview:**  
 ![Cancer Patient Dashboard](Cancer%20data.png)
 
+## Project 4
+
+**Title:** [Customer Registration, Activation & Revenue Performance Analysis](https://github.com/odosa-osifo/odosa-osifo.github.io/blob/main/Odosa%20Osifo%20RTV2%20Project.pbix)
+
+**Tools Used:** Power BI (DAX, Data Modelling, Power Query, Interactive Dashboards, KPI Cards, Slicers)
+
+**Project Description:**  
+This project focuses on analysing customer lifecycle performance, from registration through activation to revenue generation. The objective is to identify key trends in customer acquisition, conversion efficiency, and revenue performance to support data-driven business decisions.
+
+An interactive Power BI dashboard was developed to monitor key performance indicators such as total registrations, activations, conversion ratio, revenue trends, and average order value. The dashboard enables stakeholders to evaluate operational performance across time (daily, monthly, yearly) and identify opportunities for growth and optimisation.
+
+The dashboard includes the following features:
+
+KPI Overview  
+Summary metrics including total registered candidates, activated users, inactive users, total revenue, conversion ratio, and average order value.
+
+Registration & Activation Trends  
+Monthly and yearly analysis of customer acquisition and activation patterns.
+
+Revenue Analysis  
+Breakdown of revenue performance across days and years to identify peak revenue periods.
+
+Conversion Funnel Insights  
+Comparison of registered vs activated users to evaluate conversion efficiency.
+
+Conversation Ratio Analysis  
+Monthly breakdown of conversion rates to identify fluctuations in performance.
+
+Interactive Filters  
+Dynamic filtering by day, month, year, course type, opportunity type, and training location for deeper analysis.
+
+---
+
+**Key Findings:**
+
+CUSTOMER ACQUISITION & CONVERSION  
+1. Total registered candidates (1320) significantly exceed activated users (602), resulting in a conversion ratio of 45.61%.  
+2. A large portion of users (718) remain inactive after registration.  
+
+📌 Insight: There is a clear drop-off between registration and activation, indicating friction in the onboarding or conversion process. Optimising user onboarding and engagement strategies could significantly improve activation rates.
+
+---
+
+REVENUE PERFORMANCE  
+1. Total revenue generated is ₦61.67M, with an average order value of ₦102.45K.  
+2. Revenue peaks mid-week (Wednesday–Thursday), with relatively lower performance on Sundays.  
+
+📌 Insight: Mid-week periods drive the highest revenue, suggesting optimal timing for campaigns and promotions. Weekend engagement strategies may need improvement to balance revenue distribution.
+
+---
+
+YEARLY GROWTH TREND  
+1. Revenue experienced significant growth from 2021 to 2023, peaking at approximately ₦35M in 2023.  
+2. A decline is observed in 2024 revenue performance.  
+
+📌 Insight: The drop in 2024 suggests potential market saturation, reduced demand, or operational inefficiencies. This signals a need for strategic intervention to sustain growth.
+
+---
+
+REGISTRATION & ACTIVATION TRENDS  
+1. Both registrations and activations peaked in 2023.  
+2. A decline is visible in 2024 across both metrics.  
+
+📌 Insight: The decline in both acquisition and activation suggests a broader business slowdown rather than just a conversion issue. Marketing and acquisition strategies may need to be re-evaluated.
+
+---
+
+MONTHLY PERFORMANCE PATTERNS  
+1. Registration and activation trends show fluctuations throughout the year, with peaks around October.  
+2. Early months and mid-year periods show relatively lower activity.  
+
+📌 Insight: There are strong seasonal patterns in user engagement. Businesses can capitalise on high-performing months and implement targeted campaigns during low periods.
+
+---
+
+CONVERSION RATE VARIABILITY  
+1. Monthly conversion ratios fluctuate between approximately 6.7% and 10.8%.  
+
+📌 Insight: Inconsistent conversion rates indicate variability in campaign effectiveness or user experience. Standardising best-performing strategies could stabilise and improve overall conversion performance.
+
+---
+
+DATA QUALITY INDICATOR  
+1. Payment data shows 100% completion (no missing payment identifiers).  
+
+📌 Insight: High data completeness ensures reliable financial analysis and indicates strong data collection processes.
+
+---
+
+**Technology Used:** Microsoft Power BI
+
+**Dashboard Overview:**  
+![Customer Lifecycle Dashboard](Candidate%20Data.png)
+
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/Frankjnrodosa
-[instagram]: https://www.instagram.com/_frankjnr_/
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
 [linkedin]: https://linkedin.com/in/odosa-osifo-47784a194
 
 <!--
