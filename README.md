@@ -363,7 +363,7 @@ DATA QUALITY INDICATOR
 **Technology Used:** Microsoft Power BI
 
 **Dashboard Overview:**  
-![Customer Lifecycle Dashboard](Candidate%20Data.png)
+![Customer Lifecycle Dashboard](Customer_Lifecycle_Dashboard.png)
 
 <h2> 🤳 Connect with me:</h2>
 
