@@ -42,7 +42,9 @@ These filters allow stakeholders to drill down into specific customer segments a
 2. Female participation is consistent but significantly lower in every category.														
 														
 📌 Insight: Marketing campaigns could be gender-segmented—male-focused promotions may yield faster ROI, while female-targeted campaigns represent a growth opportunity.														
+
 ---
+
 PROMO CODE USAGE														
 1. About 57% of customers did NOT use promo codes														
 														
