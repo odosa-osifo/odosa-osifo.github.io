@@ -36,7 +36,8 @@ Gender, Product Category, Season, Payment Method, Subscription Status
 
 These filters allow stakeholders to drill down into specific customer segments and gain deeper insights into shopping behaviour.
 
-**Key Findings:** CATEGORY PREFERENCE BY GENDER														
+**Key Findings:** 
+CATEGORY PREFERENCE BY GENDER														
 1. Male customers dominate purchases across all categories (Accessories, Clothing, Footwear, Outerwear).														
 														
 2. Female participation is consistent but significantly lower in every category.														
@@ -46,18 +47,20 @@ These filters allow stakeholders to drill down into specific customer segments a
 ---
 
 PROMO CODE USAGE														
-1. About 57% of customers did NOT use promo codes														
-														
+1. About 57% of customers did NOT use promo codes																												
 2. 43% used promo codes, which is still a sizeable segment.														
 														
 📌 Insight: Customers are willing to purchase without discounts, indicating strong product value. Promo codes can be strategically targeted instead of mass-distributed to protect margins.														
+
+---
 														
 TOP PERFORMING REGION														
-1. Montana leads as the highest-selling region.  Followed by illinois and California														
-														
+1. Montana leads as the highest-selling region.  Followed by illinois and California																												
 2. Nevada shows the lowest sales among the top 5.														
 														
 📌 Insight: Regional demand varies significantly—high-performing regions are ideal for inventory expansion, while low-performing regions may need localized marketing or pricing strategies.														
+
+---
 														
 PURCHASE FREQUENCY PATTERNS														
 1. Every 3 Months is the most common purchase cycle.														
@@ -67,6 +70,8 @@ PURCHASE FREQUENCY PATTERNS
 3. Weekly purchases are the lowest, indicating this is not a high-frequency shopping category.														
 														
 📌 Insight: The business aligns more with planned or need-based shopping, not impulse buying. Subscription models or reminder-based campaigns could increase frequency.														
+
+---
 														
 PAYMENT METHOD PREFERENCES														
 1. Credit Card and PayPal are the most used payment methods.														
@@ -75,13 +80,18 @@ PAYMENT METHOD PREFERENCES
 														
 3. Venmo and Bank Transfer trail behind.														
 														
-📌 Insight: Customers prefer secure and convenient digital payment methods. Optimizing checkout UX for cards and PayPal can reduce cart abandonment														
+📌 Insight: Customers prefer secure and convenient digital payment methods. Optimizing checkout UX for cards and PayPal can reduce cart abandonment
+
+---
+
 CATEGORY PREFERENCE BY GENDER														
 1. Male customers dominate purchases across all categories (Accessories, Clothing, Footwear, Outerwear).														
 														
 2. Female participation is consistent but significantly lower in every category.														
 														
 📌 Insight: Marketing campaigns could be gender-segmented—male-focused promotions may yield faster ROI, while female-targeted campaigns represent a growth opportunity.														
+
+---
 														
 PROMO CODE USAGE														
 1. About 57% of customers did NOT use promo codes														
@@ -89,13 +99,16 @@ PROMO CODE USAGE
 2. 43% used promo codes, which is still a sizeable segment.														
 														
 📌 Insight: Customers are willing to purchase without discounts, indicating strong product value. Promo codes can be strategically targeted instead of mass-distributed to protect margins.														
+
+---
 														
 TOP PERFORMING REGION														
-1. Montana leads as the highest-selling region.  Followed by illinois and California														
-														
+1. Montana leads as the highest-selling region.  Followed by illinois and California																												
 2. Nevada shows the lowest sales among the top 5.														
 														
 📌 Insight: Regional demand varies significantly—high-performing regions are ideal for inventory expansion, while low-performing regions may need localized marketing or pricing strategies.														
+
+---
 														
 PURCHASE FREQUENCY PATTERNS														
 1. Every 3 Months is the most common purchase cycle.														
@@ -105,6 +118,8 @@ PURCHASE FREQUENCY PATTERNS
 3. Weekly purchases are the lowest, indicating this is not a high-frequency shopping category.														
 														
 📌 Insight: The business aligns more with planned or need-based shopping, not impulse buying. Subscription models or reminder-based campaigns could increase frequency.														
+
+---
 														
 PAYMENT METHOD PREFERENCES														
 1. Credit Card and PayPal are the most used payment methods.														
@@ -114,7 +129,6 @@ PAYMENT METHOD PREFERENCES
 3. Venmo and Bank Transfer trail behind.														
 														
 📌 Insight: Customers prefer secure and convenient digital payment methods. Optimizing checkout UX for cards and PayPal can reduce cart abandonment														
-
 
 
 **Dashboard Overview:**
@@ -255,7 +269,7 @@ TIME-BASED TRENDS
 **Technology Used:** Microsoft Power BI
 
 **Dashboard Overview:**  
-![Cancer Patient Dashboard](Cancer data.png)
+![Cancer Patient Dashboard](Cancer%20data.png)
 
 <h2> 🤳 Connect with me:</h2>
 
