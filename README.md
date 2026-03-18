@@ -166,7 +166,94 @@ Overall, this project showcases fundamental SQL skills including data retrieval,
 **Technology Used:** SQL server
 
 
+# Project 3
 
+**Title:** [Cancer Data Analysis](https://github.com/odosa-osifo/odosa-osifo.github.io/blob/main/Cancer%20Data%20Analysis%20(Portfolio).pbix)
+
+**Tools Used:** Power BI (Data Modelling, DAX, Power Query, Interactive Visualisations, Slicers, Data Quality)
+
+**Project Description:**  
+This project focuses on analysing cancer patient data to uncover critical insights into patient demographics, treatment patterns, survival outcomes, and regional distribution of cases. The goal of the analysis is to support healthcare decision-making by identifying trends that can improve treatment strategies, resource allocation, and patient outcomes.
+
+An interactive Power BI dashboard was developed to provide a comprehensive overview of key clinical and demographic indicators. The dashboard enables users to explore patient data dynamically across multiple dimensions such as cancer stage, gender, smoking status, and diagnosis timelines.
+
+The dashboard includes the following features:
+
+Cancer Stage Distribution  
+Breakdown of patients across different cancer stages (I–IV) to highlight disease progression trends.
+
+Patient Demographics  
+Analysis of gender distribution and smoking status to identify potential risk factors.
+
+Survival Analysis  
+Visual representation of survival outcomes, showing the proportion of patients who survived versus those who did not.
+
+Regional Case Distribution  
+Identification of top provinces with the highest number of cancer cases to support geographic resource planning.
+
+Treatment Insights  
+Average chemotherapy sessions and surgery trends over time to evaluate treatment intensity and healthcare demand.
+
+Time-Based Analysis  
+Monthly trend of surgeries to understand fluctuations in treatment activity over time.
+
+Interactive Filtering  
+Slicers for smoking status, gender, and diagnosis date allow users to drill down into specific patient groups for deeper analysis.
+
+
+
+**Key Findings:**
+
+CANCER STAGE DISTRIBUTION  
+1. The majority of patients are diagnosed at Stage II and Stage III.  
+2. Stage IV cases are significantly lower but still clinically critical.  
+
+📌 Insight: Late-stage diagnosis (Stage II & III dominance) suggests gaps in early detection and screening programs. Increasing early diagnosis initiatives could significantly improve survival rates.
+
+---
+
+SURVIVAL OUTCOMES  
+1. Approximately 79% of patients are alive, while 21% are deceased.  
+
+📌 Insight: While survival rates appear relatively high, the mortality proportion is still significant. Further analysis into treatment effectiveness and early intervention strategies could help reduce fatalities.
+
+---
+
+REGIONAL DISTRIBUTION  
+1. Guangdong has the highest(184) number of cancer cases.  
+2. Other high-burden regions include Shandong and Sichuan.  
+
+📌 Insight: Cancer cases are geographically concentrated, indicating the need for region-specific healthcare resource allocation and targeted intervention programs.
+
+---
+
+TREATMENT PATTERNS  
+1. The average chemotherapy session per patient is approximately 2.8.  
+2. Surgery trends fluctuate across months, with noticeable peaks(May) and dips(November).  
+
+📌 Insight: Variability in treatment patterns may indicate differences in treatment accessibility, patient condition severity, or hospital capacity. This highlights the need for more consistent treatment planning.
+
+---
+
+RISK FACTOR ANALYSIS (SMOKING & GENDER)  
+1. Smoking status segmentation shows variation across patient groups.  
+2. Gender distribution indicates differences in cancer occurrence between male and female patients.  
+
+📌 Insight: Lifestyle factors such as smoking remain a critical variable in cancer analysis. Preventative health campaigns targeting high-risk groups could reduce incidence rates.
+
+---
+
+TIME-BASED TRENDS  
+1. Surgery counts show inconsistent patterns throughout the year.  
+
+📌 Insight: Seasonal or operational factors may influence treatment volumes. Understanding these patterns can help optimize hospital staffing and resource planning.
+
+---
+
+**Technology Used:** Microsoft Power BI
+
+**Dashboard Overview:**  
+![Cancer Patient Dashboard](Cancer data.png)
 
 <h2> 🤳 Connect with me:</h2>
 
