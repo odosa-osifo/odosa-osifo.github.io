@@ -273,7 +273,7 @@ TIME-BASED TRENDS
 
 ## Project 4
 
-**Title:** [Customer Registration, Activation & Revenue Performance Analysis](https://github.com/odosa-osifo/odosa-osifo.github.io/blob/main/Odosa%20Osifo%20RTV2%20Project.pbix)
+**Title:** [Customer Registration, Activation & Revenue Performance Analysis](https://github.com/odosa-osifo/odosa-osifo.github.io/blob/main/Customer%20Registration%2C%20Activation%20%26%20Revenue%20Performance%20Analysis.pbix)
 
 **Tools Used:** Power BI (DAX, Data Modelling, Power Query, Interactive Dashboards, KPI Cards, Slicers)
 
