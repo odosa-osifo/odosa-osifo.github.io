@@ -6,6 +6,8 @@
 
 **Tools Used:** Microsoft Excel(Pivot Tables, Pivot charts, slicers, functions, Power query editor, conditional formating, text-box)
 
+![Project Banner](Customer(Intro).png)
+
 **Introduction:**
 This project was undertaken to examine customer shopping behaviour in the USA and uncover actionable insights into purchasing patterns across demographics, product categories, and consumer preferences. 
 
