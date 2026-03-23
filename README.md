@@ -142,6 +142,12 @@ PAYMENT METHOD PREFERENCES
 **Dashboard Overview:**
 ![Shopping Behaviour(USA)](Shopping%20Behaviour(USA).png)
 
+**Recommendations:**
+- Develop targeted marketing campaigns based on gender, region, and product category to improve customer engagement and sales performance.
+- Use promo codes more strategically for specific customer segments instead of mass distribution to protect profit margins.
+- Optimise checkout experience around the most used payment methods, such as Credit Card and PayPal.
+- Introduce reminder-based campaigns or loyalty strategies to encourage more frequent purchases.
+
 
 # Project 2
 
@@ -197,6 +203,12 @@ Additionally, the project includes database structure management by creating new
 Overall, this project showcases fundamental SQL skills including data retrieval, string manipulation, aggregation, filtering, and database management, which are essential for data analysts and data scientists working with relational databases.
 
 **Technology Used:** SQL server
+
+**Recommendations:**
+- Maintain clean, well-structured, and standardised datasets to improve the accuracy and efficiency of SQL analysis.
+- Use SQL-based reporting to monitor employee data and workplace safety metrics more consistently over time.
+- Focus safety improvement efforts on high-risk plants, departments, shifts, and incident types identified in the analysis.
+- Implement regular automated reports to support faster decision-making and operational monitoring.
 
 
 # Project 3
@@ -290,6 +302,12 @@ TIME-BASED TRENDS
 
 **Dashboard Overview:**  
 ![Cancer Patient Dashboard](Cancer%20data.png)
+
+**Recommendations:**
+- Strengthen early detection and screening programmes to reduce late-stage cancer diagnosis.
+- Allocate healthcare resources more effectively to high-burden regions with the greatest number of reported cases.
+- Use treatment trend analysis to improve staffing, treatment planning, and hospital resource management.
+- Develop targeted prevention campaigns for higher-risk groups, particularly around smoking-related factors
 
 ## Project 4
 
@@ -387,6 +405,12 @@ DATA QUALITY INDICATOR
 
 **Dashboard Overview:**  
 ![Customer Lifecycle Dashboard](Customer_Lifecycle_Dashboard.png)
+
+**Recommendations:**
+Improve the onboarding process to reduce drop-off between registration and activation.
+Use targeted engagement campaigns to reactivate inactive users and improve conversion rates.
+Align promotions and revenue strategies with high-performing periods, especially mid-week peaks.
+Review the causes of the 2024 decline in registrations, activations, and revenue to support growth recovery.
 
 <h2> 🤳 Connect with me:</h2>
 
