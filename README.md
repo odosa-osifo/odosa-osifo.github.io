@@ -408,10 +408,10 @@ DATA QUALITY INDICATOR
 ![Customer Lifecycle Dashboard](Customer_Lifecycle_Dashboard.png)
 
 **Recommendations:**
-Improve the onboarding process to reduce drop-off between registration and activation.
-Use targeted engagement campaigns to reactivate inactive users and improve conversion rates.
-Align promotions and revenue strategies with high-performing periods, especially mid-week peaks.
-Review the causes of the 2024 decline in registrations, activations, and revenue to support growth recovery.
+- Improve the onboarding process to reduce drop-off between registration and activation.
+- Use targeted engagement campaigns to reactivate inactive users and improve conversion rates.
+- Align promotions and revenue strategies with high-performing periods, especially mid-week peaks.
+- Review the causes of the 2024 decline in registrations, activations, and revenue to support growth recovery.
 
 <h2> 🤳 Connect with me:</h2>
 
