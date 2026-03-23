@@ -297,6 +297,9 @@ TIME-BASED TRENDS
 
 **Tools Used:** Power BI (DAX, Data Modelling, Power Query, Interactive Dashboards, KPI Cards, Slicers)
 
+**Introduction:** 
+This project was undertaken to evaluate customer lifecycle performance by analysing the journey from registration through activation to revenue generation. The aim was to generate actionable insights into customer acquisition trends, conversion effectiveness, and revenue performance in order to support strategic decision-making and business optimisation.
+
 **Project Description:**  
 This project focuses on analysing customer lifecycle performance, from registration through activation to revenue generation. The objective is to identify key trends in customer acquisition, conversion efficiency, and revenue performance to support data-driven business decisions.
 
