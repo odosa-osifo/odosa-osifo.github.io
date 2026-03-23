@@ -6,7 +6,13 @@
 
 **Tools Used:** Microsoft Excel(Pivot Tables, Pivot charts, slicers, functions, Power query editor, conditional formating, text-box)
 
-**Project Description:** This project involved analysing customer shopping behaviour data to identify patterns and trends in purchasing activity across different demographic groups, product categories, and shopping preferences. The objective of the analysis was to generate insights that could help businesses better understand customer behaviour, improve marketing strategies, and optimise product offerings.
+**Introduction:**
+This project was undertaken to examine customer shopping behaviour in the USA and uncover actionable insights into purchasing patterns across demographics, product categories, and consumer preferences. 
+
+The objective was to leverage data analytics techniques to support informed decision-making in areas such as marketing strategy, customer segmentation, and product optimisation.
+
+**Project Description:** 
+This project involved analysing customer shopping behaviour data to identify patterns and trends in purchasing activity across different demographic groups, product categories, and shopping preferences. The objective of the analysis was to generate insights that could help businesses better understand customer behaviour, improve marketing strategies, and optimise product offerings.
 
 An interactive Excel dashboard was developed to provide a clear and comprehensive overview of key customer and sales metrics. The dashboard enables stakeholders to easily explore purchasing trends and evaluate performance across multiple dimensions such as customer demographics, product categories, and purchasing habits.
 
