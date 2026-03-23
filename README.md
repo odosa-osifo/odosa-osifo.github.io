@@ -155,7 +155,8 @@ PAYMENT METHOD PREFERENCES
 
 **SQL Code:** [Sales & Workplace Safety Data](https://github.com/odosa-osifo/odosa-osifo.github.io/blob/main/Sales_Data.sql)
 
-**SQL Skills Used:** This project demonstrates the use of SQL queries to retrieve, manipulate, and analyze employee data from a relational database. The queries were designed to extract meaningful information, transform text data, and perform basic aggregation to support data analysis tasks.
+**SQL Skills Used:** 
+This project demonstrates the use of SQL to retrieve, transform, and analyse structured data from relational databases. The work covers employee data analysis and workplace safety incident analysis, using SQL queries to answer business questions, identify patterns, perform aggregation and generate actionable insights. 
 
 The project includes the following SQL operations:
 
