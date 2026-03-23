@@ -153,28 +153,28 @@ PAYMENT METHOD PREFERENCES
 
 The project includes the following SQL operations:
 
-Data Retrieval (SELECT)
+- Data Retrieval (SELECT)
 Extracted specific columns from the database, such as employee names and department information, to retrieve relevant records for analysis.
 
-Text Transformation (UPPER, LEFT)
+- Text Transformation (UPPER, LEFT)
 Applied string functions to manipulate textual data, including converting employee names to uppercase and extracting the first four characters of employee names for formatting and analysis purposes.
 
-Data Aggregation (COUNT)
+- Data Aggregation (COUNT)
 Calculated the number of employees within specific departments (e.g., HR) to generate summary insights about workforce distribution.
 
-Date Functions (GETDATE)
+- Date Functions (GETDATE)
 Retrieved the current system date using SQL date functions to demonstrate dynamic date handling within queries.
 
-SQL Joins (LEFT, INNER)
+- SQL Joins (LEFT, INNER)
 Joined data from multiple tables using unique identifiers to link tables and performed filtering and analysis
 
-String Parsing (CHARINDEX)
+- String Parsing (CHARINDEX)
 Extracted location names from the address column by identifying and isolating text that appears before brackets, enabling cleaner geographic data representation.
 
-Database Structure Management (CREATE TABLE)
+- Database Structure Management (CREATE TABLE)
 Created a new table by defining its structure to support additional data storage and database organization.
 
-Data Filtering (WHERE)
+- Data Filtering (WHERE)
 Applied conditional filtering to retrieve only relevant records, such as employees belonging to a specific department.
 
 **Project Description:** This project demonstrates the use of SQL for data querying, transformation, and analysis using an employee dataset. The objective of the project was to explore how SQL can be used to efficiently retrieve and manipulate structured data stored in a relational database.
