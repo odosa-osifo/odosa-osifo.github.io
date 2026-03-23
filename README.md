@@ -205,6 +205,9 @@ Overall, this project showcases fundamental SQL skills including data retrieval,
 
 **Tools Used:** Power BI (Data Modelling, DAX, Power Query, Interactive Visualisations, Slicers, Data Quality)
 
+**Introduction:**
+This project was undertaken to examine cancer patient data and generate actionable insights into disease stage distribution, treatment trends, survival outcomes, and regional case concentration. The aim was to leverage data analytics to support informed healthcare decision-making, optimise resource planning, and identify patterns that may contribute to improved patient outcomes
+
 **Project Description:**  
 This project focuses on analysing cancer patient data to uncover critical insights into patient demographics, treatment patterns, survival outcomes, and regional distribution of cases. The goal of the analysis is to support healthcare decision-making by identifying trends that can improve treatment strategies, resource allocation, and patient outcomes.
 
